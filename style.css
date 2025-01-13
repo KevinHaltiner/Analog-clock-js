@@ -101,7 +101,8 @@ body {
   border-radius: 18px;
   margin-left: -9px;
   margin-top: -6px;
-  background: #4d4b63;
+  background: black;
+  box-shadow: 3px 1px 30px white;
   z-index: 11;
 }
 
